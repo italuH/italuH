@@ -35,3 +35,5 @@ ___
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=italuH&repo=Tiringa-BOT&theme=tokyonight)](https://github.com/italuH/Tiringa-BOT)
 ___
+
+    
