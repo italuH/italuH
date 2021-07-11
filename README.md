@@ -32,9 +32,8 @@ ___
 <p align="center">
   <a href="https://github.com/italuH"><img src="https://github-profile-trophy.vercel.app/?username=italuH&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
- <p align="center">
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=italuH&repo=Tiringa-BOT&theme=tokyonight)](https://github.com/italuH/Tiringa-BOT)
-</p>
 ___
 
     
