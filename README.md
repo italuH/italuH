@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/italuH"><img src="https://cardivo.vercel.app/api?name=italuH&description=Olá, eu sou o Italuh, apenas um curioso em programação...&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLD6flzca0kCzdyLB87aNpkUt0ktckNlSOQ&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=italuH&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/italuH"><img src="https://cardivo.vercel.app/api?name=italuH&description=SEXOOOOOOOOOOOOOO&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLD6flzca0kCzdyLB87aNpkUt0ktckNlSOQ&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=italuH&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=italuH&label=Visitantes&color=green&style=flat-square" alt="italuH" /></a> </p><br> 
